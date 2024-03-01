@@ -1,8 +1,12 @@
 # setup-docker-php
 Setup dockerizado contendo php, mysql e nginx.
 
-## iniciar docker:
+# Dicas
+## Iniciar containers
 * docker-compose up -d
 
-## porta de acesso:
+## Porta da aplicação
 * localhost:8080
+
+## Atenção!
+* Não esquecer de alterar nome, usuario e senha do banco.
